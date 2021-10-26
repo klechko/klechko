@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @klechko
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JS
+- 👀 I know HTML, CSS and JS
+- 🌱 I’m currently learning React
 
 <!---
 klechko/klechko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
