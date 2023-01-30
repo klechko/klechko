@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klechko
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in front-end development, database design and implementation, as well as maintaining computer systems
 - 👀 I know HTML, CSS, JS, jQuery
-- 👀 Familiar with MySQL
+- 👀 I also know MySQL
 <!--- - 🌱 I’m currently learning React--->
 
 <!---
